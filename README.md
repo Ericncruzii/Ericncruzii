@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ericncruzii
+- 👀 I’m interested in ICS PT
+- 🌱 I’m currently learning Python
